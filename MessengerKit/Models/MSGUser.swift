@@ -7,6 +7,7 @@
 //
 
 import Foundation
+import UIKit.UIImage
 
 /// Objects representing a user within MessengerKit
 /// Must conform to this protocol.
